@@ -5,10 +5,10 @@ from validator import generate_emails, validate
 
 
 def main(argv):
-    firstname = ""
-    lastname = ""
-    domain = ""
-    year = -1
+    firstname = "noor"
+    lastname = "zwayen"
+    domain = "www.gmail.com"
+    year = 2002
     r = 5
     separators = []
 
